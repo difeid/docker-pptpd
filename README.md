@@ -1,5 +1,10 @@
-[![](https://images.microbadger.com/badges/image/difeid/pptpd.svg)](https://microbadger.com/images/difeid/pptpd "Get your own image badge on microbadger.com")
+## This project is no longer supported and will be moved to the archive
+
+**Warning**: The PPTP protocol is inherently insecure
+
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdifeid%2Fdocker-pptpd.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdifeid%2Fdocker-pptpd?ref=badge_shield)
+
+[Github](https://github.com/difeid/docker-pptpd)
 
 # VPN (PPTP) server for Docker
 
